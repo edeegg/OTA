@@ -15,7 +15,23 @@
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-</zerofltexx>           
+</zerofltexx>   
+
+<zeroltexx>
+          <Filename>RR-O-v6.0.0-20180408-zeroltexx-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/zeroltexx/RR-O-v6.0.0-20180408-zeroltexx-Official.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+</zeroltexx>               
 
     </Stable>
 </SlimOTA>
