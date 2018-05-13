@@ -22,7 +22,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/zeroltexx/RR-O-v6.0.0-20180422-zeroltexx-Official.zip</RomUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/zero-common/RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -31,7 +31,39 @@
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
-</zeroltexx>               
+</zeroltexx> 
+
+<zeroltecan>
+          <Filename>RR-O-v6.0.0-20180422-zeroltexx-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/zero-common/RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+</zeroltecan>              
+
+<zerofltecan>
+          <Filename>RR-O-v6.0.0-20180422-zeroltexx-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/zero-common/RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+</zerofltecan>
 
     </Stable>
 </SlimOTA>
