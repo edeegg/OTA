@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
        <zerofltexx>
-          <Filename>RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</Filename>
+          <Filename>RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -18,11 +18,11 @@
 </zerofltexx>   
 
 <zeroltexx>
-          <Filename>RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</Filename>
+          <Filename>RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -34,11 +34,11 @@
 </zeroltexx> 
 
 <zeroltecan>
-          <Filename>RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</Filename>
+          <Filename>RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -50,11 +50,11 @@
 </zeroltecan>              
 
 <zerofltecan>
-          <Filename>RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</Filename>
+          <Filename>RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180526-zero-multitarget-Official.zip</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/zero-common/RR-O-v6.0.0-20180527-zero-multitarget-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
